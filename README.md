@@ -18,4 +18,4 @@
 
 ###Resultados
 
-(./clonar.PNG "Título opcional)
+![Capturar](https://user-images.githubusercontent.com/91555974/213514403-b1b5c4a3-1c1e-4356-9a19-33b7ddf405e8.PNG)
